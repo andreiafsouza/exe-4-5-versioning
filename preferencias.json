@@ -1,0 +1,70 @@
+{
+  "preferencias": {
+    "filme": [
+      {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "ano_lancamento": 2001,
+        "elenco": {
+          "ator": ["Elijah Wood", "Ian McKellen"]
+        },
+        "tipo": "Aventura",
+        "sinopse": "Um manso hobbit do Condado e oito companheiros partem em uma jornada para destruir o poderoso Um Anel e salvar a Terra-média das Trevas."
+      },
+      {
+        "titulo": "Pulp Fiction - Tempo de Violência",
+        "ano_lancamento": 1994,
+        "elenco": {
+          "ator": ["John Travolta", "JUma Thurman"]
+        },
+        "tipo": "Drama",
+        "sinopse": "As vidas de dois assassinos da máfia, um boxeador, um gângster e sua esposa, e um par de bandidos se entrelaçam em quatro histórias de violência e redenção."
+      },
+      {
+        "titulo": "A Viagem de Chihiro",
+        "ano_lancamento": 2001,
+        "elenco": {
+          "ator": ["Miyu Irino", "Rumi Hiiragi"]
+        },
+        "tipo": "Animação",
+        "sinopse": "Uma garota é obrigada a mudar de cidade com seus pais contra a sua vontade. Durante a viagem, eles decidem pegar um atalho e se perdem, chegando a um estranho edifício, onde adentrarão um misterioso mundo de monstros e espíritos."
+      }
+    ],
+    "livro": [
+      {
+        "titulo": "O Dia do Curinga",
+        "autor": "Jostein Gaarder",
+        "ano_lancamento": 1998,
+        "tipo": "Ficção / Literatura Estrangeira",
+        "num_paginas": 382
+      },
+      {
+        "titulo": "O Bom Filho",
+        "autor": "You-Jeong Jeong",
+        "ano_lancamento": 2019,
+        "tipo": "Ficção / Literatura Estrangeira / Romance policial / Suspense e Mistério",
+        "num_paginas": 288
+      },
+      {
+        "titulo": "O Nome do Vento",
+        "autor": "Patrick Rothfuss",
+        "ano_lancamento": 2009,
+        "tipo": "Fantasia / Ficção / Literatura Estrangeira",
+        "num_paginas": 656
+      }
+    ],
+    "comida": [
+      {
+        "nome": "Frango com Quiabo",
+        "ingrediente": ["Frango", "Quiabo", "Arroz"]
+      },
+      {
+        "nome": "Tropeiro",
+        "ingrediente": ["Feijão", "Linguiça", "Bacon"]
+      },
+      {
+        "nome": "Bife com Batata Frita",
+        "ingrediente": ["Bife", "Batata", "Óleo"]
+      }
+    ]
+  }
+}
